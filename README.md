@@ -2,4 +2,4 @@
 
 Link to course material: https://github.com/sta426hs2022/material/issues
 
-![Epigenetics](https://commons.wikimedia.org/wiki/File:DNA_methylation.svg)
+![Epigenetics](https://upload.wikimedia.org/wikipedia/commons/9/90/DNA_methylation.svg)
